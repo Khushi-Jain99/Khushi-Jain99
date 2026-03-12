@@ -1,5 +1,5 @@
 # 💫 About Me:
-💼 Web Development Intern at Okie Dokie<br>🔬 Former Research Intern at SkillifyMe<br>🔬 Techinal Core Team Member At GDGoC PIET<br>👩‍💻 B.Tech CSE (AI & ML) student at PIET<br>💡 Passionate about Web Development and modern technologies<br>🌐 Skilled in Python, JavaScript, Angular, MongoDB, and Postman<br>⚛️ Have basic knowledge of React<br>🚀 Always eager to learn new skills and build real-world projects<br>🎯 Dedicated, consistent, and growth-oriented learner
+💼 Web Development Intern at Okie Dokie<br>🔬 Former Research Intern at SkillifyMe<br>🔬 Technical Core Team Member At GDGoC PIET<br>👩‍💻 B.Tech CSE (AI & ML) student at PIET<br>💡 Passionate about Web Development and modern technologies<br>🌐 Skilled in Python, JavaScript, Angular, MongoDB, and Postman<br>⚛️ Have basic knowledge of React<br>🚀 Always eager to learn new skills and build real-world projects<br>🎯 Dedicated, consistent, and growth-oriented learner
 
 
 ## 🌐 Socials:
